@@ -2,6 +2,8 @@ Data Science project on Credit Card Fraud Detection
 
 Repository Name: CreditCard-Fraud-Detection
 
+Dataset: "kaggle datasets download -d mlg-ulb/creditcardfraud"
+
 Description: This repository contains datasets and analysis related to Credit Card Fraud Detection. The dataset covers the Normal transactions and Fraudulent transactions in a binary form.
 
 Contents are as following:- 
